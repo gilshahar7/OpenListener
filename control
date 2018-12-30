@@ -1,0 +1,10 @@
+Package: com.gilshahar7.openlistener
+Name: OpenListener
+Description: Open apps in background mode using Activator.
+Version: 1.0
+Priority: optional
+Section: Addons (Activator)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, libactivator
+Maintainer: gilshahar7
+Author: gilshahar7
